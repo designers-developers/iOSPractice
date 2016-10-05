@@ -403,6 +403,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ee.maytr.DnDDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -414,6 +415,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ee.maytr.DnDDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -482,6 +484,7 @@
 				F52E681D1DA56109000D6F4C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F52E681E1DA56109000D6F4C /* Build configuration list for PBXNativeTarget "DnDDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +493,7 @@
 				F52E68201DA56109000D6F4C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F52E68211DA56109000D6F4C /* Build configuration list for PBXNativeTarget "DnDDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +502,7 @@
 				F52E68231DA56109000D6F4C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
